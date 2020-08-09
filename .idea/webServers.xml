@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6188516d-faf2-48b5-84c7-e020a70b05e7" name="auto_test" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="X:\信息组\许姚龙\机房命令" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
