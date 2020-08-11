@@ -40,7 +40,7 @@ async def tx(web: chrome.WebBrowser, account):
 
 
 if __name__ == '__main__':
-    auto_test.test_id = 't4'
+    auto_test.test_id = 't1'
     auto_test.count = 6
     auto_test.test_account_name = 'xk'
     ini_data()
